@@ -4,7 +4,6 @@ This project is a BoilerPlate created by Franco Segura
 
  - React
  - Redux
- - Saga
  - Selector
  - Router
  - Typescript
@@ -18,7 +17,7 @@ In the project root directory, you can run:
 
 To install all dependencies
 
-### `yarn start`
+### `yarn run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
